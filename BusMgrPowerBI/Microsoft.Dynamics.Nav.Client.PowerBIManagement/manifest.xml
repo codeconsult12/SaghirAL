@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+    <Resources>
+        <Script>PowerBIManagement.js</Script>
+        <Script>powerbi.js</Script>
+    </Resources>
+
+  <Script>
+    <![CDATA[
+      Initialize();
+    ]]>
+  </Script>
+
+  <MinimumWidth>0</MinimumWidth>
+  <MinimumHeight>0</MinimumHeight>
+
+  <RequestedWidth>0</RequestedWidth>
+  <RequestedHeight>0</RequestedHeight>
+  
+  <MaximumWidth>0</MaximumWidth>
+  <MaximumHeight>0</MaximumHeight>
+  
+  <VerticalStretch>true</VerticalStretch>
+  <HorizontalStretch>true</HorizontalStretch>
+    
+  <VerticalShrink>true</VerticalShrink>
+  <HorizontalShrink>true</HorizontalShrink>  
+</Manifest>
